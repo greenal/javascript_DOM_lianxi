@@ -1,26 +1,28 @@
-# ÎÒµÄµÚÒ»¸öGitHubÏîÄ¿
+# ï¿½ÒµÄµï¿½Ò»ï¿½ï¿½GitHubï¿½ï¿½Ä¿
 
-ÕâÊÇÏîÄ¿ 
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä¿ 
 
-[helloworld](https://github.com/gotgithub/helloworld) £¬
-»¶Ó­·ÃÎÊ¡£
+[helloworld](https://github.com/gotgithub/helloworld) ï¿½ï¿½
+ï¿½ï¿½Ó­ï¿½ï¿½ï¿½Ê¡ï¿½
 
 
 
-Õâ¸öÏîÄ¿µÄ°æ±¾¿âÊÇ **Git¸ñÊ½** £¬ÔÚ Windows¡¢Linux¡¢Mac OS X
-Æ½Ì¨¶¼ÓĞ¿Í»§¶Ë¹¤¾ß¿ÉÒÔ·ÃÎÊ¡£ËäÈ»°æ±¾¿âÖ»Ìá¹©GitÒ»ÖÖ¸ñÊ½£¬
-µ«ÊÇÄã»¹ÊÇ¿ÉÒÔÓÃÆäËûÓÃÆäËû¹¤¾ß·ÃÎÊ£¬Èç ``svn`` ºÍ ``hg`` ¡£
+ï¿½ï¿½ï¿½ï¿½ï¿½Ä¿ï¿½Ä°æ±¾ï¿½ï¿½ï¿½ï¿½ **Gitï¿½ï¿½Ê½** ï¿½ï¿½ï¿½ï¿½ Windowsï¿½ï¿½Linuxï¿½ï¿½Mac OS X
+Æ½Ì¨ï¿½ï¿½ï¿½Ğ¿Í»ï¿½ï¿½Ë¹ï¿½ï¿½ß¿ï¿½ï¿½Ô·ï¿½ï¿½Ê¡ï¿½ï¿½ï¿½È»ï¿½æ±¾ï¿½ï¿½Ö»ï¿½á¹©GitÒ»ï¿½Ö¸ï¿½Ê½ï¿½ï¿½
+ï¿½ï¿½ï¿½ï¿½ï¿½ã»¹ï¿½Ç¿ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ß·ï¿½ï¿½Ê£ï¿½ï¿½ï¿½ ``svn`` ï¿½ï¿½ ``hg`` ï¿½ï¿½
 
-## °æ±¾¿âµØÖ·
+## ï¿½æ±¾ï¿½ï¿½ï¿½Ö·
 
-Ö§³ÖÈıÖÖ·ÃÎÊĞ­Òé£º
+Ö§ï¿½ï¿½ï¿½ï¿½ï¿½Ö·ï¿½ï¿½ï¿½Ğ­ï¿½é£º
 
-* HTTPĞ­Òé: `https://github.com/gotgithub/helloworld.git` ¡£
-* GitĞ­Òé: `git://github.com/gotgithub/helloworld.git` ¡£
-* SSHĞ­Òé: `ssh://git@github.com/gotgithub/helloworld.git` ¡£
+* HTTPĞ­ï¿½ï¿½: `https://github.com/gotgithub/helloworld.git` ï¿½ï¿½
+* GitĞ­ï¿½ï¿½: `git://github.com/gotgithub/helloworld.git` ï¿½ï¿½
+* SSHĞ­ï¿½ï¿½: `ssh://git@github.com/gotgithub/helloworld.git` ï¿½ï¿½
 
-## ¿ËÂ¡°æ±¾¿â
+## ï¿½ï¿½Â¡ï¿½æ±¾ï¿½ï¿½
 
-²Ù×÷Ê¾Àı£º
+ï¿½ï¿½ï¿½ï¿½Ê¾ï¿½ï¿½
 
     $ git clone git://github.com/gotgithub/helloworld.git
+
+henosteven--add--this--line
