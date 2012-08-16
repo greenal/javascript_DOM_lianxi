@@ -1,0 +1,49 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>shopping list</title>
+</head>
+
+<body>
+	<h1>What to buy</h1>
+    <p title="a gentle reminder">Don't forget to buy this stuff.</p>
+    <ul id="purchase">
+    	<li>A tin of beans</li>
+        <li class="sale">Cheese</li>
+        <li class="sale important">Milk</li>
+    </ul>
+    
+    <script>
+		//alert(document.getElementsByTagName("li").length);  
+		
+		//var items = document.getElementsByTagName("li");
+//		for (var i=0;i < items.length; i++){
+//			alert(typeof items[i]);	
+//		}
+
+
+	<!--如果你想知道某份文档里总共有多少个元素节点，使用通配符即可-->
+	console.log(document.getElementsByTagName("*").length);
+	
+	
+	var shopping = document.getElementById("purchase");
+	var items = shopping.getElementsByTagName("*");
+	console.log(items.length);
+	
+	
+	//getElementsByClassName用法   可以查找带有多个类名的元素
+	console.log(document.getElementsByClassName("important sale").length);
+	
+	
+	//要想知道id为“purchases”的元素中有多少类名包含“sale”类表项，可以先找到那个特定的对象，然后调用getgetElementsByClassName
+	var shopping = document.getElementById("purchase");
+	var sales = shopping.getElementsByClassName("sale");
+	console.log(sales.length);
+	
+	
+	
+	 
+	</script>
+</body>
+</html>
