@@ -1,30 +1,13 @@
-# �ҵĵ�һ��GitHub��Ŀ
+# 这是我第一个项目
 
-������Ŀ 
+  javascript_DOM_lianxi  是javascript_DOM 这本书的练习 总结
 
-[helloworld](https://github.com/gotgithub/helloworld) ��
-��ӭ���ʡ�
-
+[javascript_DOM_lianxi](https://github.com/greenal/javascript_DOM_lianxi)
 
 
-�����Ŀ�İ汾���� **Git��ʽ** ���� Windows��Linux��Mac OS X
-ƽ̨���пͻ��˹��߿��Է��ʡ���Ȼ�汾��ֻ�ṩGitһ�ָ�ʽ��
-�����㻹�ǿ���������������߷��ʣ��� ``svn`` �� ``hg`` ��
 
-## �汾���ַ
 
-֧�����ַ���Э�飺
+  克隆
+* HTTP  `https://github.com/greenal/javascript_DOM_lianxi.git` 
+* Git   `git://github.com/gotgithub/helloworld.git` 
 
-* HTTPЭ��: `https://github.com/gotgithub/helloworld.git` ��
-* GitЭ��: `git://github.com/gotgithub/helloworld.git` ��
-* SSHЭ��: `ssh://git@github.com/gotgithub/helloworld.git` ��
-
-## ��¡�汾��
-
-����ʾ��
-
-    $ git clone git://github.com/gotgithub/helloworld.git
-
-henosteven--add--this--line
-
-henosteven--add-another--line
